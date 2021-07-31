@@ -4,7 +4,7 @@ public class SwapTwoNumbers {
 	private static final Scanner sc = new Scanner(System.in);
 	public static void main(String[] args) {
 		int a, b, t;
-		System.out.println("Enter the value of X and Y");
+		System.out.println("Enter the value of X and Y is:");
 		a = sc.nextInt();
 		b = sc.nextInt();
 		System.out.println("Before swapping is: " + a + "  " + b);
